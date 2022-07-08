@@ -31,4 +31,4 @@ Video under construction 🛠
 Tutorial under construction 🛠
 
 ## 🔒 License
-The source code for the Space Shooter is licensed under the MIT license, which can be found [here](https://github.com/Ghazalmir/Glitch-Garden/blob/main/LICENSE).
+The source code for the Glitch Garden is licensed under the MIT license, which can be found [here](https://github.com/Ghazalmir/Glitch-Garden/blob/main/LICENSE).
