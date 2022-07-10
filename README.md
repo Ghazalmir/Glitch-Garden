@@ -6,6 +6,7 @@ Repository containing the C# scripts for a 2D tower defense game similar to Plan
 - 📽 [Demo](https://github.com/Ghazalmir/Glitch-Garden#-demo)
 - ⚙️ [Features](https://github.com/Ghazalmir/Glitch-Garden#%EF%B8%8F-features)
 - 🕹 [Making Levels](https://github.com/Ghazalmir/Glitch-Garden#-making-levels)
+- 📝 [Project Takeaways](https://github.com/Ghazalmir/Glitch-Garden#-project-takeaways)
 - 🔒 [License](https://github.com/Ghazalmir/Glitch-Garden#-license)
 
 ## 🚀 Overview
@@ -29,6 +30,13 @@ Video under construction 🛠
 
 ## 🕹 Making Levels
 Tutorial under construction 🛠
+
+## 📝 Project Takeaways
+- Using 2D Animation (sprite sheet and bone-based) with animators, states, events, and motion clips. 
+- Mobile-first game design.
+- Responsive sizing.
+- Using Unity Remote.
+- Working with Unity's build settings. 
 
 ## 🔒 License
 The source code for the Glitch Garden is licensed under the MIT license, which can be found [here](https://github.com/Ghazalmir/Glitch-Garden/blob/main/LICENSE).
